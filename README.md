@@ -7,5 +7,6 @@ PersistHawk — SOC-grade PowerShell tool to hunt Windows persistence mechanisms
 
 Outputs CSV/TXT files in C:\PersistHawk<hostname>_<timestamp> for review and analysis.
 
+
 <img width="652" height="381" alt="image" src="https://github.com/user-attachments/assets/b7ae1a4f-cfe3-4d30-96a1-49f95ea99146" />
 
